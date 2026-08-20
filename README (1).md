@@ -10,8 +10,8 @@ tags:
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwGfez0GlpX7mJ1cSZMBM237eWb23wjR0dFzsdHqptaVJFLS91apmI1qs&#x26;s=10" alt="" data-size="line"> Project Sekai: Colorful Stage!
 
 ⬇ OFFICIAL CHARTS ⬇\
-&#x20;Sbuga's Sonolus Server: [https://sonolus.sbuga.com/](https://sonolus.sbuga.com/)\
-&#x20;Sekai Best: [https://sonolus.sekai.best/](https://sonolus.sekai.best/)\
+<img src="https://sonolus.sbuga.com/favicon.ico" alt="" data-size="line"> Sbuga's Sonolus Server: [https://sonolus.sbuga.com/](https://sonolus.sbuga.com/)\
+![](https://sonolus.sekai.best/favicon.ico) Sekai Best: [https://sonolus.sekai.best/](https://sonolus.sekai.best/)\
 ⬇ COMMUNITY CHARTS ⬇\
 <img src="https://coconut-tree.sonolus.com/483d29624685ac369786860fdd52046717d2e0a513bace0b8fa16a92452f7710/posts/1/thumbnail/2166e295dfe8595a64b31c01e07320f9ce6b0a50" alt="" data-size="line"> Next Sekai: [https://coconut.sonolus.com/next-sekai](https://coconut.sonolus.com/next-sekai)\
 <img src="https://untitledcharts.com/636a8f1e76b38cb1b9eb0a3d88d7df6f.png" alt="" data-size="line"> UntitledCharts: [https://untitledcharts.com/](https://untitledcharts.com/)\

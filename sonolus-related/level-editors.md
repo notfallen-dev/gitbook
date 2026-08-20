@@ -53,4 +53,4 @@ To create your charts for osu!taiko or osu!mania you need to login on the websit
 
 
 
-Now that we've met with level editors, we shall move on to "PLACEHOLDER"
+Now that we've met with level editors, we shall move on to [Level Data](level-data.md#bpm-and-time-signature)!

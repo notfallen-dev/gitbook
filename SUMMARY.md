@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome! (EDIT THIS)](README.md)
+* [👋 Welcome! (REMINDERS HERE)](README.md)
 
 ## 🎮 Sonolus Related
 

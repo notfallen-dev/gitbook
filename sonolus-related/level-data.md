@@ -39,3 +39,5 @@ SuperNova support zoom function while MMW4UC doesn't.
 {% hint style="warning" %}
 EVERY EXAMPLE THAT WAS SHOWN IN THAT HINT IS NOT EXACT, BUT THE FACT THAT ONE FUNCTION IS AVAILABLE IN ONE EDITOR AND OTHER ISN'T IS TRUE.
 {% endhint %}
+
+Now you can look at all available notes and all events! Next page is [Notes and Events](notes-and-events.md).

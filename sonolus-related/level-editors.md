@@ -7,7 +7,7 @@ icon: pen
 
 # Level Editors
 
-## For Project Sekai Charts
+## For Project Sekai
 
 1. <img src="https://cdn.discordapp.com/icons/1512883219601817600/274d97b5ff39026c256e9229bb601b2d.webp?size=128" alt="" data-size="line"> SuperNova Editor: [https://github.com/Purplaxo/SupernovaEditor/tags](https://github.com/Purplaxo/SupernovaEditor)
 2. <img src="../.gitbook/assets/mmw_icon.png" alt="" data-size="line"> MikuMikuWorld4UntitledCharts: [https://github.com/UntitledCharts/MikuMikuWorld4UC/tags](https://github.com/UntitledCharts/MikuMikuWorld4UC/tags)

@@ -67,6 +67,10 @@ What's the difference? The difference in their URLs!\
 
 Convexity: [https://convexity.qwewqa.xyz/](https://convexity.qwewqa.xyz/)
 
+{% hint style="info" %}
+This server is a mix of Bandori, LLSIF and Nanaon (22/7). The gameplay is the same, this one have more customisation options than their original servers.
+{% endhint %}
+
 ## <img src="https://sonolus.tjadataba.se/ese/favicon.ico" alt="" data-size="line"> Taiko no Tatsujin
 
 ![](https://sonolus.tjadataba.se/ese/favicon.ico) Taiko no Tatsujin: [https://sonolus.tjadataba.se/ese/](https://sonolus.tjadataba.se/ese/)

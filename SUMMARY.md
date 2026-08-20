@@ -4,6 +4,6 @@
 
 ## 🎮 Sonolus Related
 
-* [Servers](<README (1).md>)
+* [Servers](sonolus-related/servers.md)
 * [Level Editors](sonolus-related/level-editors.md)
 * [Level Data](sonolus-related/level-data.md)

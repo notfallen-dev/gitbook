@@ -27,7 +27,7 @@ Pretty simple, you place a note, and in the game you need to tap it!
 
 You tap on the green note and hold it, go after it so you would not miss your combo!
 
-<figure><img src="https://cdn.discordapp.com/attachments/1398655443458592848/1540340116889796638/New_Project_293_FD470FA.gif?ex=6a899906&#x26;is=6a884786&#x26;hm=f7844723723700c1280462cffca4ae07ba589342c55b8ab50b9ee6b846eda5a1&#x26;" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/1398655443458592848/1540340119481880608/New_Project_293_A753914.gif?ex=6a8aea86&#x26;is=6a899906&#x26;hm=7927f8c4b954b845c1e96d9644623ab544f951fb175e2cc8d0e2caf21dfac448&#x26;" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Flick
 
@@ -101,7 +101,7 @@ Hides certain part of the stage.
 
 Makes your judgment line move horizontally (left, right), and can move vertically (up, down).
 
-
+<div><figure><img src="https://sonolus-next-sekai-dynamic-stages-guide.pages.dev/images/image44.gif" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="https://sonolus-next-sekai-dynamic-stages-guide.pages.dev/images/image42.gif" alt="" width="375"><figcaption></figcaption></figure></div>
 
 #### Style
 

@@ -9,14 +9,12 @@ icon: pen
 
 ## For Project Sekai
 
-1. <img src="https://cdn.discordapp.com/icons/1512883219601817600/274d97b5ff39026c256e9229bb601b2d.webp?size=128" alt="" data-size="line"> SuperNova Editor: [https://github.com/Purplaxo/SupernovaEditor/tags](https://github.com/Purplaxo/SupernovaEditor)
+1. <img src="https://cdn.discordapp.com/icons/1512883219601817600/274d97b5ff39026c256e9229bb601b2d.webp?size=128" alt="" data-size="line"> SuperNova Editor (Android & PC): [https://github.com/Purplaxo/SupernovaEditor/tags](https://github.com/Purplaxo/SupernovaEditor)
 2. <img src="../.gitbook/assets/mmw_icon.png" alt="" data-size="line"> MikuMikuWorld4UntitledCharts: [https://github.com/UntitledCharts/MikuMikuWorld4UC/tags](https://github.com/UntitledCharts/MikuMikuWorld4UC/tags)
-3. <img src="../.gitbook/assets/mmw_icon.png" alt="" data-size="line"> MikuMikuWorld4ChartCyanvas: [https://github.com/blasieuwu/blasies-mmw4cc-archive/releases/tag/archive](https://github.com/blasieuwu/blasies-mmw4cc-archive/releases/tag/archive)
-4. <img src="../.gitbook/assets/mmw_icon.png" alt="" data-size="line"> MikuMikuWorld: [4.1.0](https://files.nexint.org/api/public/dl/vubVhUlN/MikuMikuWorld%20\(4.1.0\).zip), [4.0.0](https://files.nexint.org/api/public/dl/vubVhUlN/MikuMikuWorld%20\(4.0.0\).zip), [3.3.0](https://files.nexint.org/api/public/dl/vubVhUlN/MikuMikuWorld%20\(3.3.0\).zip)
-5. <img src="https://next-sekai-editor.sonolus.com/favicon.ico" alt="" data-size="line"> NextSekai Editor: [https://next-sekai-editor.sonolus.com/](https://next-sekai-editor.sonolus.com/)
+3. <img src="../.gitbook/assets/mmw_icon.png" alt="" data-size="line"> MikuMikuWorld: [4.1.0](https://files.nexint.org/api/public/dl/vubVhUlN/MikuMikuWorld%20\(4.1.0\).zip), [4.0.0](https://files.nexint.org/api/public/dl/vubVhUlN/MikuMikuWorld%20\(4.0.0\).zip), [3.3.0](https://files.nexint.org/api/public/dl/vubVhUlN/MikuMikuWorld%20\(3.3.0\).zip)
+4. <img src="https://next-sekai-editor.sonolus.com/favicon.ico" alt="" data-size="line"> NextSekai Editor: [https://next-sekai-editor.sonolus.com/](https://next-sekai-editor.sonolus.com/)
 
 {% hint style="success" %}
-Thanks to `blasieuwu` on GitHub for posting MMW4CC archive :pray:\
 Thanks to Nexint for giving links of MMW that was deleted from GitHub.
 {% endhint %}
 

@@ -11,7 +11,11 @@ Now that you got one of the level editors, we should introduce you to important 
 
 ## BPM & Time Signature
 
-BPM - Beats Per Minute. Important to change, you can look up its BPM on internet, or use web-tool that laoloser made! URL to laoloser's BPM Detector: [https://laoloser.com/songedit](https://laoloser.com/songedit)
+BPM - Beats Per Minute. Important to change, or your chart gets de-synced. :P
+
+Ways to get it:\
+1\. Use Laoloser's tool: [https://laoloser.com/songedit](https://laoloser.com/songedit). Use this in case if your song don't have BPM changes.\
+2\. Try getting the BPM by changing BPM of your chart randomly until you see that it's synced. (More info should be put. Contributor: Pishi, Community Owner of UnCh.
 
 Time Signature - You probably saw that 4/4 on your screen right? Good. **Don't touch it.** In most songs it's not used, only in some of them (e.g. song by Toby Fox - Third Sanctuary). It's setting the rhythm of the song, but wrong signature and your chart is f###ed.
 
@@ -21,8 +25,7 @@ Now after you save your chart file you can see the file extension being differen
 
 .sus - supported by all editors. (MMW4UC temporarily disabled .sus support due to it being buggy)\
 .mmws - supported by all MMWs and SuperNova Editor.\
-.mmw4cc - supported by MMW4CC only.\
-.usc - supported by MMW4CC, MMW4UC and SuperNova.\
+.usc - supported by MMW4UC and SuperNova.\
 .unchmmws - supported my MMW4UC only.\
 LevelData - supported by SuperNova Editor and NextSekai (NXSK) Editor.\
 .nova - supported by SuperNova Editor only.

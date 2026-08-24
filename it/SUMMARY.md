@@ -1,6 +1,6 @@
 # Sommario
 
-- [👋 Welcome! (REMINDERS HERE)](README.md)
+- [👋 Benvenuto! (AVVERTIMENTI QUI)](README.md)
 
 ## 🎮 Sonolus Related
 

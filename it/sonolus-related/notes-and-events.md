@@ -106,11 +106,11 @@ Consente alla linea di giudizio di muoversi orizzontalmente (a sinistra, a destr
 Colora il tuo scenario scegliendo tra 8 varianti di colore predefinite. È anche possibile rendere invisibili la linea di giudizio e la corsia riducendo il valore Alpha. (Le immagini 1 e 2 mostrano il colore, l'immagine 3 mostra la linea di giudizio invisibile e l'immagine 4 mostra la corsia invisibile)
 
 <div>
-<figure><img src="https://sonolus-next-sekai-dynamic-stages-guide.pages.dev/images/image49.jpg" alt="" width="375"><figcaption><p> Immagine 1</p></figcaption></figure> <figure><img src="https://sonolus-next-sekai-dynamic-stages-guide.pages.dev/images/image22.jpg" alt="" width="375"><figcaption><p> Immagine 2</p></figcaption></figure>
+<figure><img src="https://sonolus-next-sekai-dynamic-stages-guide.pages.dev/images/image49.jpg" alt="" width="375"><figcaption><p>Picture 1</p></figcaption></figure> <figure><img src="https://sonolus-next-sekai-dynamic-stages-guide.pages.dev/images/image22.jpg" alt="" width="375"><figcaption><p>Picture 2</p></figcaption></figure>
 </div>
 
 <div align="center">
-<figure><img src="https://sonolus-next-sekai-dynamic-stages-guide.pages.dev/images/image45.jpg" alt="" width="375"><figcaption><p> Immagine 3</p></figcaption></figure> <figure><img src="https://sonolus-next-sekai-dynamic-stages-guide.pages.dev/images/image29.jpg" alt="" width="375"><figcaption><p> Immagine 4</p></figcaption></figure>
+<figure><img src="https://sonolus-next-sekai-dynamic-stages-guide.pages.dev/images/image45.jpg" alt="" width="375"><figcaption><p>Picture 3</p></figcaption></figure> <figure><img src="https://sonolus-next-sekai-dynamic-stages-guide.pages.dev/images/image29.jpg" alt="" width="375"><figcaption><p>Picture 4</p></figcaption></figure>
 </div>
 
 #### Transform

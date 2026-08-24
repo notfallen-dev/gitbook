@@ -35,9 +35,9 @@ icon: pen
 
 1. <img src="https://editor.d4c.my.id/favicon.ico" data-size="line" alt=""> bangbangboom editor: [https://editor.d4c.my.id/](https://editor.d4c.my.id/)
 
-## For Aurora
+## Per Aurora
 
-1. <img src="https://coconut-tree.sonolus.com/1f0ce2816fff15a200a013cf79858d9ba252b9ee703df51034fadbe030dbf59a/posts/3/thumbnail/b0e481ed6d14c4e4ac3ece9b084fae1e696424ca" alt="" data-size="line"> MMW4Aurora (PC only): [https://drive.google.com/drive/folders/1-ZiVGsAQEiGtoCv6zYSaO0kwfSXKZYOR](https://drive.google.com/drive/folders/1-ZiVGsAQEiGtoCv6zYSaO0kwfSXKZYOR)
+1. <img src="https://coconut-tree.sonolus.com/1f0ce2816fff15a200a013cf79858d9ba252b9ee703df51034fadbe030dbf59a/posts/3/thumbnail/b0e481ed6d14c4e4ac3ece9b084fae1e696424ca" alt="" data-size="line"> MMW4Aurora (solo per PC): [https://drive.google.com/drive/folders/1-ZiVGsAQEiGtoCv6zYSaO0kwfSXKZYOR](https://drive.google.com/drive/folders/1-ZiVGsAQEiGtoCv6zYSaO0kwfSXKZYOR)
 2. <img src="https://aurora-editor.gorenganhunter.my.id/favicon.ico" alt="" data-size="line"> Sonolus Aurora Editor: [https://aurora-editor.gorenganhunter.my.id/](https://aurora-editor.gorenganhunter.my.id/)
 
 Ora che abbiamo parlato con gli editor di livelli, passiamo ai [Dati Livello](level-data.md#bpm-and-time-signature)!

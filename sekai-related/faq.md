@@ -1,7 +1,6 @@
 ---
-description: Questions and Answers
-icon: comments-question
+description: Domande e risposte
+icon: comments-questions
 ---
 
 # FAQ
-

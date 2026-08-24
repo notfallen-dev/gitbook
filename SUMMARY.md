@@ -1,15 +1,15 @@
-# Table of contents
+# Sommario
 
-* [👋 Welcome! (REMINDERS HERE)](README.md)
+- [👋 Benvenuto! (AVVERTIMENTI QUI)](README.md)
 
 ## 🎮 Sonolus Related
 
-* [Servers](sonolus-related/servers.md)
-* [Level Editors](sonolus-related/level-editors.md)
-* [Level Data](sonolus-related/level-data.md)
-* [Notes and Events](sonolus-related/notes-and-events.md)
+- [Server](sonolus-related/servers.md)
+- [Editor di livelli](sonolus-related/level-editors.md)
+- [Dati a livello](sonolus-related/level-data.md)
+- [Note ed eventi](sonolus-related/notes-and-events.md)
 
 ## Sekai Related
 
-* [FAQ](sekai-related/faq.md)
-* [Browser](sekai-related/browser.md)
+- [FAQ](sekai-related/faq.md)
+- [Sito web](sekai-related/browser.md)

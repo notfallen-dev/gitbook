@@ -1,46 +1,34 @@
 ---
-description: >-
-  This article is introducing you to level file formats and what you should do
-  with BPM and Time Signatures in the level editor!
+description: "Questo articolo ti introduce ai formati dei file di livello e a cosa dovresti fare con BPM e indicazioni di tempo nell'editor di livelli!"
 icon: database
 ---
 
-# Level Data
+# Dati Livello
 
-Now that you got one of the level editors, we should introduce you to important part before you start charting! After you choose a song to chart, please inspect such things as BPM and Time Signature.
+Ora che hai a disposizione uno degli editor di livelli, prima di iniziare a creare la traccia, ti presentiamo una parte importante! Dopo aver scelto un brano da trascrivere, controlla elementi come BPM e indicazione di tempo.
 
-## BPM & Time Signature
+## BPM e indicazione di tempo
 
-BPM - Beats Per Minute. Important to change, or your chart gets de-synced. :P
+BPM - Battiti al minuto. È importante modificarlo, altrimenti il ​​grafico si desincronizza. :P
 
-Ways to get it:\
-1\. Use Laoloser's tool: [https://laoloser.com/songedit](https://laoloser.com/songedit). Use this in case if your song don't have BPM changes.\
-2\. Try getting the BPM by changing BPM of your chart randomly until you see that it's synced. (More info should be put. Contributor: Pishi, Community Owner of UnCh.
+Modi per ottenerlo:<br> 1. Utilizza lo strumento di Laoloser: [https://laoloser.com/songedit](https://laoloser.com/songedit) . Usalo se la tua canzone non presenta variazioni di BPM.<br> 2. Prova a ottenere il BPM modificando il BPM del tuo grafico in modo casuale finché non vedi che è sincronizzato. (Dovrebbero essere inserite più informazioni. Contributore: Pishi, proprietario della community di UnCh.
 
-Time Signature - You probably saw that 4/4 on your screen right? Good. **Don't touch it.** In most songs it's not used, only in some of them (e.g. song by Toby Fox - Third Sanctuary). It's setting the rhythm of the song, but wrong signature and your chart is f###ed.
+Indicazione di tempo - Probabilmente hai visto quel 4/4 sullo schermo, vero? Bene. **Non toccarlo.** Nella maggior parte delle canzoni non viene utilizzato, solo in alcune (ad esempio la canzone di Toby Fox - Third Sanctuary). Serve a stabilire il ritmo della canzone, ma se l'indicazione di tempo è sbagliata, il tuo spartito è rovinato.
 
-## File Formats
+## Formati File
 
-Now after you save your chart file you can see the file extension being different than usual (if you turned on the Setting to show the file extensions). This was made to save your chart data in a better way and so that your level editor would read it easy. And to save your charting progress. But not all file formats compatible with **each** level editor that exists. Here's a list for which editors support file format!
+Ora, dopo aver salvato il file del grafico, noterai che l'estensione del file è diversa dal solito (se hai attivato l'opzione per visualizzare le estensioni dei file). Questa modifica è stata introdotta per salvare i dati del grafico in modo più efficiente e per facilitarne la lettura da parte dell'editor di livelli, oltre che per salvare i progressi nella creazione del grafico. Tuttavia, non tutti i formati di file sono compatibili con **tutti** gli editor di livelli esistenti. Ecco un elenco dei formati di file supportati dagli editor!
 
-.sus - supported by all editors. (MMW4UC temporarily disabled .sus support due to it being buggy)\
-.mmws - supported by all MMWs and SuperNova Editor.\
-.usc - supported by MMW4UC and SuperNova.\
-.unchmmws - supported my MMW4UC only.\
-LevelData - supported by SuperNova Editor and NextSekai (NXSK) Editor.\
-.nova - supported by SuperNova Editor only.
+.sus - supportato da tutti gli editor. (MMW4UC ha temporaneamente disabilitato il supporto per .sus a causa di alcuni bug)<br> .mmws - supportato da tutti i file MMW e da SuperNova Editor.<br> .usc - supportato da MMW4UC e SuperNova.<br> .unchmmws - supportato solo dal mio MMW4UC.<br> LevelData - supportato da SuperNova Editor e NextSekai (NXSK) Editor.<br> .nova - supportato solo da SuperNova Editor.
 
 {% hint style="danger" %}
-## RENAMING FILE FORMATS CAN LEAD TO FILE CORRUPTION. RENAMED FILE FORMAT MAY NOT WORK IN OTHER EDITOR (the only exclusion is .txt being renamed to .sus and sideways).
+
+## RINOMINARE I FORMATI DEI FILE PUÒ CAUSARE IL DANNEGGIAMENTO DEI FILE STESSI. IL FORMATO DEL FILE RINOMINATO POTREBBE NON FUNZIONARE IN ALTRI EDITOR (l'unica eccezione è la ridenominazione dei file .txt in .sus e viceversa).
+
 {% endhint %}
 
-{% hint style="info" %}
-Most recommended Sekai Editors are SuperNova and MMW4UC since they have more functionality, but some features are not supported in both of editors. Example:\
-SuperNova support zoom function while MMW4UC doesn't.
-{% endhint %}
+{% hint style="info" %} Gli editor Sekai più consigliati sono SuperNova e MMW4UC poiché offrono più funzionalità, ma alcune caratteristiche non sono supportate da entrambi gli editor. Esempio:<br> SuperNova supporta la funzione zoom, mentre MMW4UC no. {% endhint %}
 
-{% hint style="warning" %}
-EVERY EXAMPLE THAT WAS SHOWN IN THAT HINT IS NOT EXACT, BUT THE FACT THAT ONE FUNCTION IS AVAILABLE IN ONE EDITOR AND OTHER ISN'T IS TRUE.
-{% endhint %}
+{% hint style="warning" %} NON TUTTI GLI ESEMPI MOSTRATI IN QUEL SUGGERIMENTO SONO ESATTE, MA IL FATTO CHE UNA FUNZIONE SIA DISPONIBILE IN UN EDITOR E NON IN UN ALTRO È VERO. {% endhint %}
 
-Now you can look at all available notes and all events! Next page is [Notes and Events](notes-and-events.md).
+Ora puoi visualizzare tutte le note e tutti gli eventi disponibili! La pagina successiva è [Note ed Eventi](notes-and-events.md) .

@@ -1,6 +1,6 @@
-# 👋 Welcome! (EDIT THIS)
+# 👋 Benvenuto! (MODIFICA QUESTO)
 
-* [ ] Create a page for level creation
-* [ ] Create a page for video editing
-* [ ] Create a category about sekai
-* [ ] OpenSekai page about
+- [ ] Crea una pagina per la creazione del livello
+- [ ] Crea una pagina per il montaggio video
+- [ ] Crea una categoria su sekai
+- [ ] Pagina su OpenSekai

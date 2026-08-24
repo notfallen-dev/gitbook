@@ -1,11 +1,8 @@
 ---
-description: >-
-  You probably saw people use "OperaGX" for custom-made charts that were made in
-  actual sekai (with custom songs).
+description: Probabilmente avrete visto persone usare "OperaGX" per creare spartiti personalizzati realizzati in veri e propri sekai (con canzoni personalizzate).
 icon: browser
 ---
 
-# Browser
+# Sito web
 
-Here is the link to get those browsers! OperaGX, FireFox and Edge (FireFox and Edge recently got supported) with pre-installed extensions are available by this link:\
-[https://e.pcloud.link/publink/show?code=kZXQ6y7ZFr4wDnEUOSFUi8GqvXDDz7NwYtuy](https://e.pcloud.link/publink/show?code=kZXQ6y7ZFr4wDnEUOSFUi8GqvXDDz7NwYtuy)
+Ecco il link per scaricare questi browser! Opera GX, Firefox ed Edge (FireFox ed Edge sono stati recentemente aggiornati al supporto) con estensioni preinstallate sono disponibili a questo link:<br> [https://e.pcloud.link/publink/show?code=kZXQ6y7ZFr4wDnEUOSFUi8GqvXDDz7NwYtuy](https://e.pcloud.link/publink/show?code=kZXQ6y7ZFr4wDnEUOSFUi8GqvXDDz7NwYtuy)
